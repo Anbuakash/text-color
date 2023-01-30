@@ -1,0 +1,147 @@
+#sun{
+	border:5px solid red;
+	text-align:center;
+	background-color:#ffff99;
+	color:rgba(255,0,0,0.8)
+}
+.moon{
+	border:3px dotted blue;
+	text-align:center;
+	background-color:#e6f7ff;
+	color:#00e64d
+}
+.rohit{
+	text-align:center;
+}
+.gill{
+	text-align:left;
+}
+.ishan{
+	text-align:right;
+}
+.tripathi{
+	text-align:justify;
+}	
+.virat{
+	text-align-last:center;
+}
+.iyer{
+	text-align-last:right;
+}
+.surya{
+	text-align-last:justify;
+}
+.kumar{
+	text-decoration:overline;
+}
+.yadav{
+	text-decoration:line-through;
+}
+.pant{
+	text-decoration:underline;
+}
+.pandiya{
+	text-decoration:overline;
+	text-decoration-color:#66ff33
+}
+.hardik{
+	text-decoration:line-through;
+	text-decoration-color:#66ff33
+}
+.kurnal{
+	text-decoration:underline;
+	text-decoration-style:solid;
+}
+.axar{
+	text-decoration:underline;
+	text-decoration-style:double;
+}
+.patel{
+	text-decoration:underline;
+	text-decoration-style:dotted;
+	text-decoration-color:blue;
+}
+.ravi{
+	text-decoration:underline;
+	text-decoration-style:wavy;
+	text-decoration-color:red
+}
+.tick{
+	text-decoration:underline;
+	text-decoration-style:wavy;
+	text-decoration-color:yellow;
+	text-decoration-thickness:5px;
+}
+.trans{
+	text-transform:uppercase;
+}
+.trans1{
+	text-transform:lowercase;
+}
+.trans2{
+	text-transform:capitalize;
+}
+.father{
+	text-indent:50px;
+
+}
+.mom{
+	text-indent:50px;
+	letter-spacing:5px;
+}
+.son{
+	text-indent:50px;
+	word-spacing:20px;
+}
+.daug{
+	text-indent:50px;
+	white-space:nowrap;
+}
+.cat{
+	text-align:center;
+	font-size:50px;
+	text-shadow:5px 5px;
+}
+.dog{
+	text-align:center;
+	font-size:50px;
+	text-shadow:5px 5px #ff1a75,8px 8px #00ff00,10px 10px #ff0000;
+} 
+#duke{
+	border:5px dashed red;
+}
+#pulsar{
+	border:5px double green;
+}
+#apache{
+	border:10px solid blue;
+	border-radius:10px;
+}
+#pep{
+	border-bottom-style:dashed;
+	border-top-style:solid;
+	border-bottom-color:green;
+	border-top-color:red;
+	border-bottom-width:5px;
+	border-top-width:10px
+}
+#ray{
+	border:5px dotted black;
+}
+#r15{
+	border:10px solid pink;
+}
+#plat{
+	border:5px solid red;
+	border-radius:20px;
+}
+#disc{
+	text-align:center;
+	height:100px;
+	width:100px;
+	padding:20px;
+	margin:relative;
+	background-color:#ffff00;
+	border:10px solid pink;
+	box-shadow:0px 0px 15px 20px #47d147,0px 0px 10px 15px #0044cc;
+}
